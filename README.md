@@ -13,7 +13,7 @@
 
 - ⚡ <a href="https://www.hiroshima-u.ac.jp/iagcc/news/80635">ビジネスコンテスト</a>に参加して<a href="https://hirodai-kaede.com/">大学の授業レビューサイト</a>を開発しました。
 
-- 🌱  <a href="https://jphacks.com/">AtCoder</a>や<a href="https://zenn.dev/atsukihat">技術的発信</a>も積極的に行っています。
+- 🌱  <a href="https://jphacks.com/">AtCoder</a>にも時々参加してます。
 
 - 🏋️ 効果的にチームをリードしてより優れたプロダクトを作れるようになるため日々奮闘中です。
 
