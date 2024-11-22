@@ -5,9 +5,9 @@
 
 - 🏫 広島大学 先進理工系科学研究科<a href="https://web.learning-engineering.com/"> 学習工学研究室</a>
 
-- 👨‍💻 自身の開発をまとめた<a href="https://portfolio-atsuki.web.app/">ポートフォリオ</a>を作成しました。
-
 - 🎨 制作物のより詳しい内容や直近のインターンの内容について<a href="https://speakerdeck.com/atsukihat/zi-ji-shao-jie-suraido">スライド</a>にまとめてみました。
+
+- 👨‍💻 自身の開発をまとめた<a href="https://portfolio-atsuki.web.app/">ポートフォリオ</a>を作成しました。
 
 - 💬 <a href="https://home.hiroshima-u.ac.jp/ujima/onsei/index.html">人間社会科学研究科</a>で研究員（エンジニア）として働いていました(2023年1月〜2024年9月)。
 
